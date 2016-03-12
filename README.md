@@ -17,3 +17,6 @@ Small Variation 1
 Small Variation 2
 Small Variation 3
 Small Variation 4
+#I want to contribute, but I don't have Github!
+- You might want to get Github.
+- You could also directly email the files to me (frogocomics@gmail.com) and tell me how I could credit you.
