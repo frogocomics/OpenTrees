@@ -12,6 +12,8 @@ Medium Variation 2
 Large Variation 1
 Large Variation 2
 
+If you meet all the guidelines, feel free to submit a pull request and we/I will merge/provide feedback!
+
 This is not accepted:
 Small Variation 1
 Small Variation 2
