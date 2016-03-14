@@ -6,19 +6,21 @@ We would greatly appreciate all contributors and all contributors will be fully 
 - Trees are named like this: (Scientic Name) (Size)(Varient).schematic _Example: Homo Sapians L2_
 - Schematics should be as optimized as possible: we would prefer if it is trimmed along the edges to remove useless air.
 - One variation of a tree is not good enough. We should like it if you include **at least** four variations, and at least 2 sizes.
+
 This is accepted:
-Medium Variation 1
-Medium Variation 2
-Large Variation 1
-Large Variation 2
+- Medium Variation 1  
+- Medium Variation 2  
+- Large Variation 1  
+- Large Variation 2  
+
+This is not accepted:
+- Small Variation 1
+- Small Variation 2
+- Small Variation 3
+- Small Variation 4
 
 If you meet all the guidelines, feel free to submit a pull request and we/I will merge/provide feedback!
 
-This is not accepted:
-Small Variation 1
-Small Variation 2
-Small Variation 3
-Small Variation 4
 #I want to contribute, but I don't have a Github account!
 - You might want to get a Github account.
 - You could also directly email the files to me (frogocomics@gmail.com) and tell me how I could credit you.
