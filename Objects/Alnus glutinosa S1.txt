@@ -1,0 +1,27 @@
+# Extracted from Minecraft world saves/Void
+# Mon Mar 14 20:59:34 2016
+
+# Selection location min to max: -52, 0, 727 to -47, 11, 735
+
+# Created for Viewing - Binary STL iMaterialise
+# Units for the model vertex data itself: millimeters
+
+# 412 vertices, 372 faces (744 triangles), 68 blocks, 18 billboards/bits
+# block dimensions: X=6 by Y=12 (height) by Z=9 blocks
+# File type: Export solid material colors only (no textures)
+# Make Z the up direction instead of Y: no
+# Center model: YES
+# Export lesser blocks: YES
+# Fatten lesser blocks: no
+# Individual blocks: no
+# Use biomes: YES
+# Rotate model 0.000000 degrees
+# Scale model by making each block 100 mm high
+# Data operation options:
+#   Fill air bubbles: no; Seal off entrances: no; Fill in isolated tunnels in base of model: no
+#   Connect parts sharing an edge: no; Connect corner tips: no; Weld all shared edges: no
+#   Delete floating objects: trees and parts smaller than 16 blocks: no
+#   Hollow out bottom of model, making the walls 10 mm thick: no; Superhollow: no
+# Melt snow blocks: no
+#   Debug: show separate parts as colors: no
+#   Debug: show weld blocks in bright colors: no
