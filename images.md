@@ -86,3 +86,59 @@ Fraxinus excelsior S2.png
 
 ![Fraxinus excelsior S2.png](Images/Fraxinus excelsior S2.png)
 
+Picea mariana L1.png
+
+![Picea mariana L1.png](Images/Picea mariana L1.png)
+
+Picea mariana L2.png
+
+![Picea mariana L2.png](Images/Picea mariana L2.png)
+
+Picea mariana M1.png
+
+![Picea mariana M1.png](Images/Picea mariana M1.png)
+
+Picea mariana M2.png
+
+![Picea mariana M2.png](Images/Picea mariana M2.png)
+
+Picea mariana S1.png
+
+![Picea mariana S1.png](Images/Picea mariana S1.png)
+
+Picea mariana S2.png
+
+![Picea mariana S2.png](Images/Picea mariana S2.png)
+
+Picea mariana XS1.png
+
+![Picea mariana XS1.png](Images/Picea mariana XS1.png)
+
+Picea mariana XS2.png
+
+![Picea mariana XS2.png](Images/Picea mariana XS2.png)
+
+Quercus robur L1.png
+
+![Quercus robur L1.png](Images/Quercus robur L1.png)
+
+Quercus robur L2.png
+
+![Quercus robur L2.png](Images/Quercus robur L2.png)
+
+Quercus robur M1.png
+
+![Quercus robur M1.png](Images/Quercus robur M1.png)
+
+Quercus robur M2.png
+
+![Quercus robur M2.png](Images/Quercus robur M2.png)
+
+Quercus robur S1.png
+
+![Quercus robur S1.png](Images/Quercus robur S1.png)
+
+Quercus robur S2.png
+
+![Quercus robur S2.png](Images/Quercus robur S2.png)
+
