@@ -24,3 +24,8 @@ If you meet all the guidelines, feel free to submit a pull request and we/I will
 #I want to contribute, but I don't have a Github account!
 - You might want to get a Github account.
 - You could also directly email the files to me (frogocomics@gmail.com) and tell me how I could credit you.
+
+#Contributors
+- [frogocomics (creator)](http://github.com/frogocomics)  
+- [acz13 (repo stuffs)](http://github.com/acz13)
+- [wunder-bread (Picea mariana)](http://github.com/wunder-bread)
