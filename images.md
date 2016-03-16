@@ -142,3 +142,27 @@
 
 ![Quercus robur S2.png](Images/Thumbnails/Quercus robur S2.png)
 
+[Ulmus  minor subsp. minor L1.schematic](Schematics/Ulmus  minor subsp. minor L1.schematic)
+
+![Ulmus  minor subsp. minor L1.png](Images/Thumbnails/Ulmus  minor subsp. minor L1.png)
+
+[Ulmus  minor subsp. minor L2.schematic](Schematics/Ulmus  minor subsp. minor L2.schematic)
+
+![Ulmus  minor subsp. minor L2.png](Images/Thumbnails/Ulmus  minor subsp. minor L2.png)
+
+[Ulmus  minor subsp. minor M1.schematic](Schematics/Ulmus  minor subsp. minor M1.schematic)
+
+![Ulmus  minor subsp. minor M1.png](Images/Thumbnails/Ulmus  minor subsp. minor M1.png)
+
+[Ulmus  minor subsp. minor M2.schematic](Schematics/Ulmus  minor subsp. minor M2.schematic)
+
+![Ulmus  minor subsp. minor M2.png](Images/Thumbnails/Ulmus  minor subsp. minor M2.png)
+
+[Ulmus  minor subsp. minor S1.schematic](Schematics/Ulmus  minor subsp. minor S1.schematic)
+
+![Ulmus  minor subsp. minor S1.png](Images/Thumbnails/Ulmus  minor subsp. minor S1.png)
+
+[Ulmus  minor subsp. minor S2.schematic](Schematics/Ulmus  minor subsp. minor S2.schematic)
+
+![Ulmus  minor subsp. minor S2.png](Images/Thumbnails/Ulmus  minor subsp. minor S2.png)
+
