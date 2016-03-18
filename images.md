@@ -118,6 +118,30 @@
 
 ![Picea mariana XS2.png](Images/Thumbnails/Picea mariana XS2.png)
 
+[Quercus petraea L1.schematic](Schematics/Quercus petraea L1.schematic)
+
+![Quercus petraea L1.png](Images/Thumbnails/Quercus petraea L1.png)
+
+[Quercus petraea L2.schematic](Schematics/Quercus petraea L2.schematic)
+
+![Quercus petraea L2.png](Images/Thumbnails/Quercus petraea L2.png)
+
+[Quercus petraea M1.schematic](Schematics/Quercus petraea M1.schematic)
+
+![Quercus petraea M1.png](Images/Thumbnails/Quercus petraea M1.png)
+
+[Quercus petraea M2.schematic](Schematics/Quercus petraea M2.schematic)
+
+![Quercus petraea M2.png](Images/Thumbnails/Quercus petraea M2.png)
+
+[Quercus petraea S1.schematic](Schematics/Quercus petraea S1.schematic)
+
+![Quercus petraea S1.png](Images/Thumbnails/Quercus petraea S1.png)
+
+[Quercus petraea S2.schematic](Schematics/Quercus petraea S2.schematic)
+
+![Quercus petraea S2.png](Images/Thumbnails/Quercus petraea S2.png)
+
 [Quercus robur L1.schematic](Schematics/Quercus robur L1.schematic)
 
 ![Quercus robur L1.png](Images/Thumbnails/Quercus robur L1.png)
