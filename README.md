@@ -28,4 +28,4 @@ If you meet all the guidelines, feel free to submit a pull request and we/I will
 #Contributors
 - [frogocomics (creator)](http://github.com/frogocomics)  
 - [acz13 (repo stuffs)](http://github.com/acz13)
-- [wunder-bread (Picea mariana)](http://github.com/wunder-bread)
+- [wunder-bread (Picea mariana, Renders)](http://github.com/wunder-bread)
