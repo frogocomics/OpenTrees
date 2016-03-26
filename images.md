@@ -118,6 +118,62 @@
 
 ![Picea mariana XS2.png](Images/Thumbnails/Picea mariana XS2.png)
 
+[Pinus sylvestris L1.schematic](Schematics/Pinus sylvestris L1.schematic)
+
+![Pinus sylvestris L1.png](Images/Thumbnails/Pinus sylvestris L1.png)
+
+[Pinus sylvestris L2.schematic](Schematics/Pinus sylvestris L2.schematic)
+
+![Pinus sylvestris L2.png](Images/Thumbnails/Pinus sylvestris L2.png)
+
+[Pinus sylvestris M1.schematic](Schematics/Pinus sylvestris M1.schematic)
+
+![Pinus sylvestris M1.png](Images/Thumbnails/Pinus sylvestris M1.png)
+
+[Pinus sylvestris M2.schematic](Schematics/Pinus sylvestris M2.schematic)
+
+![Pinus sylvestris M2.png](Images/Thumbnails/Pinus sylvestris M2.png)
+
+[Pinus sylvestris S1.schematic](Schematics/Pinus sylvestris S1.schematic)
+
+![Pinus sylvestris S1.png](Images/Thumbnails/Pinus sylvestris S1.png)
+
+[Pinus sylvestris S2.schematic](Schematics/Pinus sylvestris S2.schematic)
+
+![Pinus sylvestris S2.png](Images/Thumbnails/Pinus sylvestris S2.png)
+
+[Populus tremula L1.schematic](Schematics/Populus tremula L1.schematic)
+
+![Populus tremula L1.png](Images/Thumbnails/Populus tremula L1.png)
+
+[Populus tremula L2.schematic](Schematics/Populus tremula L2.schematic)
+
+![Populus tremula L2.png](Images/Thumbnails/Populus tremula L2.png)
+
+[Populus tremula M1.schematic](Schematics/Populus tremula M1.schematic)
+
+![Populus tremula M1.png](Images/Thumbnails/Populus tremula M1.png)
+
+[Populus tremula M2.schematic](Schematics/Populus tremula M2.schematic)
+
+![Populus tremula M2.png](Images/Thumbnails/Populus tremula M2.png)
+
+[Populus tremula S1.schematic](Schematics/Populus tremula S1.schematic)
+
+![Populus tremula S1.png](Images/Thumbnails/Populus tremula S1.png)
+
+[Populus tremula S2.schematic](Schematics/Populus tremula S2.schematic)
+
+![Populus tremula S2.png](Images/Thumbnails/Populus tremula S2.png)
+
+[Populus tremula XS1.schematic](Schematics/Populus tremula XS1.schematic)
+
+![Populus tremula XS1.png](Images/Thumbnails/Populus tremula XS1.png)
+
+[Populus tremula XS2.schematic](Schematics/Populus tremula XS2.schematic)
+
+![Populus tremula XS2.png](Images/Thumbnails/Populus tremula XS2.png)
+
 [Quercus petraea L1.schematic](Schematics/Quercus petraea L1.schematic)
 
 ![Quercus petraea L1.png](Images/Thumbnails/Quercus petraea L1.png)
@@ -166,6 +222,38 @@
 
 ![Quercus robur S2.png](Images/Thumbnails/Quercus robur S2.png)
 
+[Taxus baccata L1.schematic](Schematics/Taxus baccata L1.schematic)
+
+![Taxus baccata L1.png](Images/Thumbnails/Taxus baccata L1.png)
+
+[Taxus baccata L2.schematic](Schematics/Taxus baccata L2.schematic)
+
+![Taxus baccata L2.png](Images/Thumbnails/Taxus baccata L2.png)
+
+[Taxus baccata M1.schematic](Schematics/Taxus baccata M1.schematic)
+
+![Taxus baccata M1.png](Images/Thumbnails/Taxus baccata M1.png)
+
+[Taxus baccata M2.schematic](Schematics/Taxus baccata M2.schematic)
+
+![Taxus baccata M2.png](Images/Thumbnails/Taxus baccata M2.png)
+
+[Taxus baccata S1.schematic](Schematics/Taxus baccata S1.schematic)
+
+![Taxus baccata S1.png](Images/Thumbnails/Taxus baccata S1.png)
+
+[Taxus baccata S2.schematic](Schematics/Taxus baccata S2.schematic)
+
+![Taxus baccata S2.png](Images/Thumbnails/Taxus baccata S2.png)
+
+[Taxus baccata XS1.schematic](Schematics/Taxus baccata XS1.schematic)
+
+![Taxus baccata XS1.png](Images/Thumbnails/Taxus baccata XS1.png)
+
+[Taxus baccata XS2.schematic](Schematics/Taxus baccata XS2.schematic)
+
+![Taxus baccata XS2.png](Images/Thumbnails/Taxus baccata XS2.png)
+
 [Ulmus  minor subsp. minor L1.schematic](Schematics/Ulmus  minor subsp. minor L1.schematic)
 
 ![Ulmus  minor subsp. minor L1.png](Images/Thumbnails/Ulmus  minor subsp. minor L1.png)
@@ -189,4 +277,28 @@
 [Ulmus  minor subsp. minor S2.schematic](Schematics/Ulmus  minor subsp. minor S2.schematic)
 
 ![Ulmus  minor subsp. minor S2.png](Images/Thumbnails/Ulmus  minor subsp. minor S2.png)
+
+[Ulmus glabra L1.schematic](Schematics/Ulmus glabra L1.schematic)
+
+![Ulmus glabra L1.png](Images/Thumbnails/Ulmus glabra L1.png)
+
+[Ulmus glabra L2.schematic](Schematics/Ulmus glabra L2.schematic)
+
+![Ulmus glabra L2.png](Images/Thumbnails/Ulmus glabra L2.png)
+
+[Ulmus glabra M1.schematic](Schematics/Ulmus glabra M1.schematic)
+
+![Ulmus glabra M1.png](Images/Thumbnails/Ulmus glabra M1.png)
+
+[Ulmus glabra M2.schematic](Schematics/Ulmus glabra M2.schematic)
+
+![Ulmus glabra M2.png](Images/Thumbnails/Ulmus glabra M2.png)
+
+[Ulmus glabra S1.schematic](Schematics/Ulmus glabra S1.schematic)
+
+![Ulmus glabra S1.png](Images/Thumbnails/Ulmus glabra S1.png)
+
+[Ulmus glabra S2.schematic](Schematics/Ulmus glabra S2.schematic)
+
+![Ulmus glabra S2.png](Images/Thumbnails/Ulmus glabra S2.png)
 
