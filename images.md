@@ -62,6 +62,30 @@
 
 ![Cornus sanguinea S2.png](Images/Thumbnails/Cornus sanguinea S2.png)
 
+[Fagus sylvatica L1.schematic](Schematics/Fagus sylvatica L1.schematic)
+
+![Fagus sylvatica L1.png](Images/Thumbnails/Fagus sylvatica L1.png)
+
+[Fagus sylvatica L2.schematic](Schematics/Fagus sylvatica L2.schematic)
+
+![Fagus sylvatica L2.png](Images/Thumbnails/Fagus sylvatica L2.png)
+
+[Fagus sylvatica M1.schematic](Schematics/Fagus sylvatica M1.schematic)
+
+![Fagus sylvatica M1.png](Images/Thumbnails/Fagus sylvatica M1.png)
+
+[Fagus sylvatica M2.schematic](Schematics/Fagus sylvatica M2.schematic)
+
+![Fagus sylvatica M2.png](Images/Thumbnails/Fagus sylvatica M2.png)
+
+[Fagus sylvatica S1.schematic](Schematics/Fagus sylvatica S1.schematic)
+
+![Fagus sylvatica S1.png](Images/Thumbnails/Fagus sylvatica S1.png)
+
+[Fagus sylvatica S2.schematic](Schematics/Fagus sylvatica S2.schematic)
+
+![Fagus sylvatica S2.png](Images/Thumbnails/Fagus sylvatica S2.png)
+
 [Fraxinus excelsior L1.schematic](Schematics/Fraxinus excelsior L1.schematic)
 
 ![Fraxinus excelsior L1.png](Images/Thumbnails/Fraxinus excelsior L1.png)
