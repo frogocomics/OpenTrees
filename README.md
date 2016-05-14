@@ -1,4 +1,5 @@
 # OpenTrees
+*Please note all projects using trees from OpenTrees must be credited!*
 This is a project dedicated to adding as much trees as possible for Minecraft builders and terraformers. We aim to make trees as realistic as possible and also as good looking as possible. We hope that this project someday become the biggest collection of trees there is, and the GOTO place for many, many aspiring terraformers. **With your help and contribution, this can be acheived!** 
 #Contribution
 We would greatly appreciate all contributors and all contributors will be fully credited and linked. We, however have some guidelines.
