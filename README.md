@@ -30,3 +30,4 @@ If you meet all the guidelines, feel free to submit a pull request and we/I will
 - [frogocomics (creator)](http://github.com/frogocomics)  
 - [acz13 (repo stuffs)](http://github.com/acz13)
 - [wunder-bread (trees))](http://github.com/wunder-bread)
+- ajthemacboy (example terrain)
